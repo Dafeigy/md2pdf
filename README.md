@@ -33,7 +33,7 @@
 
 # ❓这是个什么玩意儿？
 
-这是个将`Markdown`文件转换为PDF的小脚本
+这是个将`Markdown`文件转换为PDF的小脚本。你可以看看这个说明文档对应的`README.pdf`文件来查看转换效果再决定下不下载。
 
 # 💡但是我的Typora本来就有导出PDF的功能啊？
 
@@ -66,10 +66,11 @@ $$
 e^{\pi i}=-1
 $$
 
+如果你在Github这里看到的是`$$e^{\pi i}=-1$$`,那么你需要安装一个浏览器插件[Mathjax-Plugin-for-Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related),~~但这并不重要~~。
 
 ## 代码块渲染
 
-没啥好说的,原始代码块，可以自己改CSS，我就摸了
+没啥好说的,原始代码块，可以自己改CSS，那我就：
 
 ```python
 print('摸了')
